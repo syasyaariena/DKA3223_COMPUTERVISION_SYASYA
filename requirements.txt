@@ -1,0 +1,5 @@
+nunpy
+OG
+matplotlib
+torchvision
+(v)
